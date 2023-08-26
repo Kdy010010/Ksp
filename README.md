@@ -1,3 +1,3 @@
 # Ksp 
 programming language
-<img src="img/IMG_2051.png.png">
+<img src="img/IMG_2051.png">
