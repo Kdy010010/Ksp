@@ -1,3 +1,3 @@
 # Ksp 
 programming language
-<img src="./img/IMG_2051.png">
+<img src="./img/https://github.com/Kdy010010/Ksp/blob/main/IMG_2051.png">
