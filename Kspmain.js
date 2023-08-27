@@ -1,4 +1,4 @@
-function showContent(imgSrc) {
+function img(imgSrc) {
   var imgElement = document.createElement("img");
   imgElement.src = imgSrc;
 function text(textContent) {
